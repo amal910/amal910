@@ -20,5 +20,5 @@ I'm obsessed with Javascript 😚
 My Weekly Workflow
 
 <!--Docsium::START-->
-![any](https://github.com/DOCSPLOIT/docsium-bot/blob/main/lib/template.svg)
+![any](https://github.com/amal910/amal910-bot/blob/main/lib/template.svg)
 <!--Docsium::END-->
