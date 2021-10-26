@@ -16,7 +16,7 @@ I'm obsessed with Javascript 😚
 
 
 ### Stats :hourglass_flowing_sand:
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amal910&count_private=true&theme=gothem&showicons=true)](https://github.com/amal910/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amal910&count_private=true&theme=gotham&showicons=true)](https://github.com/amal910/github-readme-stats)
 
 My Weekly Workflow
 
