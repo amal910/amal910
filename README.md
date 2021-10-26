@@ -15,7 +15,8 @@ I'm obsessed with Javascript 😚
 - 📃 Using: Coding with VSCode ✌️
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=amal910&count_private=true&theme=gotham&showicons=true)
+### Stats :hourglass_flowing_sand:
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=amal910&count_private=true&theme=synthwave&showicons=true)](https://github.com/amal910/github-readme-stats)
 
 My Weekly Workflow
 
