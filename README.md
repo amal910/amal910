@@ -6,7 +6,7 @@ I'm a full stack developer both mobile and web 😁 , kind of craziest man.
 I'm obsessed with Javascript 😚
 
 
-- 🔭 I’m currently working on Angular and also Flutter 😜
+- 🔭 I’m currently working on Angular and also Ionic 😜
 - 🌱 I’m currently learning about Product building and Synchronized Design Developement
 - 👯 I’m looking to collaborate on Javascript 🤷‍♂️
 - 🤔 I’m looking for help with Product building and Database structuring
